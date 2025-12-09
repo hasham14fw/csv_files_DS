@@ -1,0 +1,7 @@
+id,name,city,category,cuisine,rating,logoURL,lat,lng
+r001,La Bella Italia,Islamabad,Fine Dining,Italian,4.7,https://img.freepik.com/free-photo/italian-food-background_1220-4318.jpg,33.6844,73.0479
+r002,Sushi World,Islamabad,Fine Dining,Japanese,4.8,https://img.freepik.com/free-photo/sushi-set-table_140725-5024.jpg,33.7077,73.0478
+r003,Spice Garden,Lahore,Casual Dining,Pakistani,4.5,https://img.freepik.com/free-photo/chicken-karahi-pakistani-indian-food_1205-11026.jpg,31.5204,74.3587
+r004,Burger Lab,Karachi,Fast Food,American,4.4,https://img.freepik.com/free-photo/front-view-burger-stand_141793-15542.jpg,24.8607,67.0011
+r005,Tandoori Nights,Islamabad,Casual Dining,Pakistani,4.6,https://img.freepik.com/free-photo/chicken-tikka-skewers_1220-4493.jpg,33.69,73.05
+r006,Wok This Way,Lahore,Fast Food,Chinese,4.3,https://img.freepik.com/free-photo/chinese-food-table_140725-2426.jpg,31.55,74.33

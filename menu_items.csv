@@ -1,0 +1,8 @@
+id,restaurant_id,itemName,price,imageURL
+m001,r001,Margherita Pizza,1200,https://example.com/pizza.jpg
+m002,r001,Spaghetti Carbonara,1400,https://example.com/pasta.jpg
+m003,r002,Sushi Platter,2500,https://example.com/sushi.jpg
+m004,r003,Chicken Karahi,1800,https://example.com/karahi.jpg
+m005,r004,Beef Burger,950,https://example.com/burger.jpg
+m006,r005,Chicken Tikka,800,https://example.com/tikka.jpg
+m007,r006,Kung Pao Chicken,1100,https://example.com/kungpao.jpg
